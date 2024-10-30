@@ -1,0 +1,7 @@
+import React from "react";
+
+function TestComponent() {
+  return <p>Newly created Test Component!</p>;
+}
+
+export default TestComponent;
